@@ -1,0 +1,1 @@
+$('.counter').counterUp({ delay: 10, time: 1000 }); var mixer = mixitup('.mixit-tab'); $(window).scroll(function () { if ($(window).scrollTop() > 15) { $('nav').addClass("sticky_nav"); } else { $('nav').removeClass("sticky_nav"); } });
